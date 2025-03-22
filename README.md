@@ -1,8 +1,8 @@
-# Electricity Demand Forecast Dashboard 🚀
+# Electricity Demand Forecast Dashboard 
 
 This project is an interactive **Streamlit Dashboard** designed to forecast electricity demand using an LSTM-based model.
 
-## 📊 Features
+##  Features
 - **Interactive multi-graph dashboard**
 - Forecast for **1 to 30 days** into the future
 - Visualizations include:
@@ -16,17 +16,17 @@ This project is an interactive **Streamlit Dashboard** designed to forecast elec
 - CSV Download feature
 - Date-shifted simulated data (real-time effect)
 
-## 🧠 Model Details
+## Model Details
 - The LSTM model is pre-trained and loaded as `.h5`
 - MinMaxScaler is used for feature scaling
 
-## 📂 Files
+##  Files
 - `lstm_electricity_model.h5`: Pre-trained LSTM model
 - `scaler_X.pkl`, `scaler_y.pkl`: Scalers for input features & target
 - `new_data_simulated.csv`: Hourly data used for real-time predictions
 - `dashbo.py`: Streamlit app code (this file)
 
-## ⚙️ How to Run
+##  How to Run
 1. Install dependencies:
     ```bash
     pip install streamlit pandas tensorflow scikit-learn plotly joblib
@@ -37,22 +37,18 @@ This project is an interactive **Streamlit Dashboard** designed to forecast elec
     streamlit run dashbo.py
     ```
 
-## 🚦 Usage
+##  Usage
 - Select forecast horizon using the sidebar slider
 - Choose to view **Actual vs Predicted** or **Predicted Only**
 - Explore various charts
 - Download forecasted results as CSV
 
-## 📌 Notes
+##  Notes
 
 - Data has been programmatically shifted to simulate future (2025+)
 - Supports **interactive zoom & range selector** for time series graphs
 
 ---
-
-### ✨ Built with love using Streamlit & Plotly ✨
-
-
 ## working screenshot
 
 

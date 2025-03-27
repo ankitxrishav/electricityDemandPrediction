@@ -49,7 +49,7 @@ This project is an interactive **Streamlit Dashboard** designed to forecast elec
 - Supports **interactive zoom & range selector** for time series graphs
 
 ---
-## working screenshot
+## working screenshot actual vs predicted 
 
 
 
@@ -61,6 +61,12 @@ This project is an interactive **Streamlit Dashboard** designed to forecast elec
 <img width="1680" alt="Screenshot 2025-03-22 at 6 19 03 AM" src="https://github.com/user-attachments/assets/90be8b44-fb63-4563-b2b2-3bb068c080e0" />
 
 
-<img width="1237" alt="Screenshot 2025-03-22 at 6 19 19 AM" src="https://github.com/user-attachments/assets/a222bfd8-874c-4487-b63e-8124b34df58b" />
+<img width="1641" alt="Screenshot 2025-03-27 at 9 49 05 AM" src="https://github.com/user-attachments/assets/98c45941-22d5-4920-836d-edaf74dcf6f9" />
+
+## working screenshot of predicted with graph change
+
+<img width="1635" alt="Screenshot 2025-03-27 at 9 49 29 AM" src="https://github.com/user-attachments/assets/7fc367ab-d66c-474e-9f66-5dcbf04cfcb8" />
+
+<img width="1632" alt="Screenshot 2025-03-27 at 9 49 40 AM" src="https://github.com/user-attachments/assets/afce5be1-c33c-49b6-b02a-fc8d2c296191" />
 
 

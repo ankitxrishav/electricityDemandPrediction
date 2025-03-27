@@ -34,7 +34,7 @@ This project is an interactive **Streamlit Dashboard** designed to forecast elec
 
 2. Run the Streamlit app:
     ```bash
-    streamlit run dashbo.py
+    streamlit run dashboard.py
     ```
 
 ##  Usage
